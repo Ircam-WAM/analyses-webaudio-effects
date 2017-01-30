@@ -1,3 +1,3 @@
 # analyses-webaudio-effects
 
-Web audio effects for musicologic analyses at IRCAM
+Web audio effects for musicology analyses at IRCAM
