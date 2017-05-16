@@ -34,7 +34,6 @@ pip-log.txt
 #########################
 
 dist
-build
 *.unprefixed.css
 *.log
 *.map
